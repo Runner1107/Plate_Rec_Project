@@ -1,0 +1,10 @@
+edge_tts==6.1.12
+numpy==2.0.0
+onnx==1.16.1
+onnx2torch==1.5.14
+onnxruntime==1.18.1
+opencv_python==4.10.0.84
+Pillow==10.4.0
+pygame==2.6.0
+PyQt6==6.7.0
+torch==2.3.1
